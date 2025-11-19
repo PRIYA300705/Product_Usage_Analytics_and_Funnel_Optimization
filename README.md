@@ -100,5 +100,5 @@ highlight opportunities to increase retention and conversion.
 ## Author
 
 **Priya Sah**\
- Email: **priyasah3005@gmail.com**\
- GitHub: **https://github.com/PRIYA300705**
+- Email: **priyasah3005@gmail.com**\
+- GitHub: **https://github.com/PRIYA300705**
