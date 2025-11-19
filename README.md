@@ -19,13 +19,14 @@ highlight opportunities to increase retention and conversion.
     project/
     │── README.md
     │── report/
-    │     └── product_analysis_report.pdf
+    │     └── Product Analysis project report.pdf
     │── dataset/
     │     ├── users.xlsx
     │     ├── sessions.xlsx
     │     ├── feedback.xlsx
     │     └── feature_usage.xlsx
-    │── Product_Analytics.ipynb
+    │── Project Python Notebook.ipynb
+    |── MIT License
 
 ------------------------------------------------------------------------
 
